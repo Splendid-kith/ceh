@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CEH Online Examination System</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/refresh-handler.js"></script>
+    <style>
+        .selection-container {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 50px;
+        }
+        .portal-card {
+            flex: 1;
+            max-width: 300px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 2px solid transparent;
+        }
+        .portal-card:hover {
+            transform: translateY(-5px);
+            border-color: #22c55e;
+            box-shadow: 0 10px 20px rgba(34, 197, 94, 0.2);
+        }
+        .portal-icon {
+            font-size: 50px;
+            margin-bottom: 20px;
+            display: block;
+        }
+        .portal-card h3 {
+            margin: 10px 0;
+            color: #22c55e;
+        }
+        .portal-card p {
+            color: #94a3b8;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>CEH Online Examination System</h1>
+        <p style="text-align: center; color: #94a3b8;">Welcome! Please select your portal to continue.</p>
+
+        <div class="selection-container">
+            <div class="card portal-card" onclick="location.href='/student-login'">
+                <span class="portal-icon">🎓</span>
+                <h3>Student Portal</h3>
+                <p>Login to start your examination and view results.</p>
+                <button style="width: 100%; margin-top: 20px;">Enter Student Portal</button>
+            </div>
+
+            <div class="card portal-card" onclick="location.href='/admin-login'">
+                <span class="portal-icon">🛡️</span>
+                <h3>Admin Portal</h3>
+                <p>Manage examinations, students, and view analytics.</p>
+                <button style="width: 100%; margin-top: 20px; background: #3b82f6;">Enter Admin Portal</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

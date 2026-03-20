@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/refresh-handler.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="card">
+
+            <h2>Admin Dashboard</h2>
+
+            <div style="text-align: right; margin-bottom: 15px;">
+                <button onclick="clearAllData()" style="background: #ef4444;">Clear All Data</button>
+            </div>
+
+            <table>
+
+                <thead>
+                    <tr>
+                        <th>Student</th>
+                        <th>Correct</th>
+                        <th>Wrong</th>
+                        <th>Not Answered</th>
+                        <th>Score</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+
+                <tbody id="resultsTable"></tbody>
+
+            </table>
+
+            <div style="margin-top: 25px; text-align: center;">
+                <button onclick="window.location.href='/'" style="background: #3b82f6;">Back to Home</button>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="js/admin.js"></script>
+
+</body>
+
+</html>

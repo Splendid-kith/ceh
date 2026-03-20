@@ -1,0 +1,344 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    background: #020202; /* Pure hacker black */
+    color: #00ff41; /* Classic Matrix green */
+    /* Add subtle scanline effect */
+    background-image: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 65, 0.03) 2px, rgba(0, 255, 65, 0.03) 4px);
+    cursor: crosshair;
+}
+
+.container, .exam-layout {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.exam-layout {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.main-content {
+    flex: 1;
+    min-width: 300px;
+}
+
+/* Hacker Terminal Card Style */
+.card, .palette-container {
+    background: #050505;
+    padding: 25px;
+    border-radius: 0; /* Sharp edges */
+    box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
+    border: 1px solid #00ff41;
+}
+
+.card {
+    margin-top: 15px;
+    position: relative;
+}
+
+/* Add a terminal header decoration to the card */
+.card::before, .palette-container::before {
+    content: "CEH_TERM_V1.9.0 // ROOT_ACCESS_GRANTED";
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    background: #020202;
+    padding: 0 10px;
+    font-size: 10px;
+    color: #00ff41;
+    letter-spacing: 1px;
+}
+
+.palette-container {
+    position: relative;
+    width: 340px;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 100px);
+}
+.palette-container::before {
+    content: "SYS_PALETTE // NODE_TRACKER";
+}
+
+h1, h2, h3 {
+    text-align: left;
+    color: #00ff41;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px rgba(0, 255, 65, 0.4);
+}
+
+h1::before, h2::before, h3::before {
+    content: "> ";
+    opacity: 0.7;
+}
+
+input:not([type="radio"]), select {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0 20px;
+    background: transparent;
+    color: #00ff41;
+    border: 1px solid #00ff41;
+    border-radius: 0;
+    box-sizing: border-box;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 15px;
+    outline: none;
+}
+
+input:not([type="radio"]):focus, select:focus {
+    background: rgba(0, 255, 65, 0.1);
+    box-shadow: inset 0 0 10px rgba(0, 255, 65, 0.3);
+}
+
+input[type="radio"] {
+    width: auto;
+    margin-right: 12px;
+    cursor: pointer;
+    accent-color: #008f11;
+}
+
+button {
+    padding: 12px 24px;
+    background: transparent;
+    border: 1px solid #00ff41;
+    color: #00ff41;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: crosshair;
+    border-radius: 0;
+    transition: all 0.2s;
+    letter-spacing: 2px;
+}
+
+button:hover:not(:disabled) {
+    background: #00ff41;
+    color: #020202;
+    box-shadow: 0 0 15px #00ff41;
+}
+
+button:disabled {
+    border-color: #003b00;
+    color: #003b00;
+    cursor: not-allowed;
+    background: transparent;
+}
+
+.question {
+    margin-bottom: 25px;
+    font-size: 18px;
+    color: #00ff41;
+}
+
+#questionBox {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    border-left: 2px solid #00ff41;
+    padding-left: 15px;
+}
+
+#questionBox h3 {
+    text-align: left;
+    color: #00ff41;
+    text-transform: none;
+}
+#questionBox h3::before {
+    content: "[?] ";
+}
+
+.options label {
+    display: flex;
+    align-items: center;
+    background: transparent;
+    padding: 12px 15px;
+    margin: 8px 0;
+    border-radius: 0;
+    cursor: crosshair;
+    transition: all 0.2s ease;
+    border: 1px dashed #008f11;
+    font-size: 15px;
+    color: #00ff41;
+}
+
+.options label:hover {
+    background: rgba(0, 255, 65, 0.1);
+    border-color: #00ff41;
+    border-style: solid;
+}
+
+/* Highlight selected option */
+.options label:has(input[type="radio"]:checked) {
+    background: rgba(0, 255, 65, 0.2);
+    border: 1px solid #00ff41;
+    box-shadow: inset 0 0 8px rgba(0, 255, 65, 0.4);
+    font-weight: bold;
+}
+
+.timer {
+    color: #ff003c; /* Alert red */
+    font-size: 22px;
+    text-align: right;
+    margin-bottom: 20px;
+    background: #020202;
+    padding: 10px 20px;
+    border: 1px solid #ff003c;
+    float: right;
+    box-shadow: 0 0 10px rgba(255, 0, 60, 0.4);
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.8; }
+    100% { opacity: 1; }
+}
+
+/* Clearfix for float */
+.main-content::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.nav-btns {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    border-top: 1px solid #00ff41;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #00ff41;
+}
+
+th {
+    background: rgba(0, 255, 65, 0.2);
+    color: #00ff41;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+td {
+    background: #050505;
+    color: #00ff41;
+}
+
+.correct {
+    color: #00ff41;
+    text-shadow: 0 0 5px #00ff41;
+}
+
+.wrong {
+    color: #ff003c;
+    text-shadow: 0 0 5px #ff003c;
+}
+
+.palette-legend {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed #008f11;
+    color: #008f11;
+    text-transform: uppercase;
+}
+
+.legend-box {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    vertical-align: middle;
+    margin-right: 6px;
+    border: 1px solid #00ff41;
+}
+
+.legend-box.answered {
+    background: #00ff41;
+}
+
+.legend-box.unanswered {
+    background: transparent;
+}
+
+.palette-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 8px;
+    overflow-y: auto;
+    padding-right: 8px;
+    margin-top: 10px;
+}
+
+/* Custom scrollbar for hacker theme */
+.palette-grid::-webkit-scrollbar {
+    width: 6px;
+}
+.palette-grid::-webkit-scrollbar-track {
+    background: #020202;
+    border-left: 1px solid #003b00;
+}
+.palette-grid::-webkit-scrollbar-thumb {
+    background: #00ff41;
+}
+.palette-grid::-webkit-scrollbar-thumb:hover {
+    background: #008f11;
+}
+
+.palette-btn {
+    width: 100%;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0;
+    background: transparent;
+    color: #008f11;
+    cursor: crosshair;
+    font-size: 14px;
+    border: 1px solid #003b00;
+    transition: all 0.2s;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+.palette-btn:hover {
+    background: rgba(0, 255, 65, 0.1);
+    border-color: #00ff41;
+    color: #00ff41;
+}
+
+.palette-btn.active {
+    border: 1px solid #ff003c;
+    color: #ff003c;
+    background: rgba(255, 0, 60, 0.1);
+    box-shadow: 0 0 8px rgba(255, 0, 60, 0.5);
+}
+
+.palette-btn.answered {
+    background: rgba(0, 255, 65, 0.2);
+    color: #00ff41;
+    border-color: #00ff41;
+    box-shadow: inset 0 0 5px rgba(0, 255, 65, 0.5);
+}

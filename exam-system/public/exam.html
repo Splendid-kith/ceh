@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Exam</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/refresh-handler.js"></script>
+</head>
+
+<body>
+
+    <div class="exam-layout">
+
+        <div class="main-content">
+            <div class="timer">
+                Time Left: <span id="time">35:00</span>
+            </div>
+
+            <div class="card">
+                <div id="questionBox"></div>
+
+                <div class="nav-btns">
+                    <button onclick="prevQuestion()">Previous</button>
+                    <button onclick="nextQuestion()">Next</button>
+                </div>
+                <br>
+                <button onclick="submitExam()" class="submit-btn" style="width: 100%;">Submit Exam</button>
+            </div>
+        </div>
+
+        <div class="palette-container">
+            <h3 style="margin-top: 0; text-align: center;">Question Palette</h3>
+            <div class="palette-legend">
+                <div><span class="legend-box answered"></span> Answered</div>
+                <div><span class="legend-box unanswered"></span> Not Answered</div>
+            </div>
+            <div id="paletteGrid" class="palette-grid">
+                <!-- Palette buttons will be injected here -->
+            </div>
+        </div>
+
+    </div>
+
+    <script src="js/exam.js"></script>
+    <script src="js/timer.js"></script>
+
+</body>
+
+</html>

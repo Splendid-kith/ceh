@@ -1,0 +1,3573 @@
+[
+    {
+        "id": 1,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 2,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 3,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 4,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 5,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 6,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 7,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 8,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 9,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 10,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 11,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 12,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 13,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 14,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 15,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 16,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 17,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 18,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 19,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 20,
+        "question": "Which tool is commonly used in Footprinting?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 21,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 22,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 23,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 24,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 25,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 26,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 27,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 28,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 29,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 30,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 31,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 32,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 33,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 34,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 35,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 36,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 37,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 38,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 39,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 40,
+        "question": "Which tool is commonly used in Network Scanning?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 41,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 42,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 43,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 44,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 45,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 46,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 47,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 48,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 49,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 50,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 51,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 52,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 53,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 54,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 55,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 56,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 57,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 58,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 59,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 60,
+        "question": "Which tool is commonly used in Enumeration?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 61,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 62,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 63,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 64,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 65,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 66,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 67,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 68,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 69,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 70,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 71,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 72,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 73,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 74,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 75,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 76,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 77,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 78,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 79,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 80,
+        "question": "Which tool is commonly used in System Hacking?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 81,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 82,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 83,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 84,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 85,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 86,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 87,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 88,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 89,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 90,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 91,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 92,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 93,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 94,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 95,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 96,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 97,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 98,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 99,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 100,
+        "question": "Which tool is commonly used in Malware Threats?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 101,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 102,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 103,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 104,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 105,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 106,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 107,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 108,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 109,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 110,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 111,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 112,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 113,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 114,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 115,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 116,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 117,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 118,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 119,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 120,
+        "question": "Which tool is commonly used in Sniffing?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 121,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 122,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 123,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 124,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 125,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 126,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 127,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 128,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 129,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 130,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 131,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 132,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 133,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 134,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 135,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 136,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 137,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 138,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 139,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 140,
+        "question": "Which tool is commonly used in Social Engineering?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 141,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 142,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 143,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 144,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 145,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 146,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 147,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 148,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 149,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 150,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 151,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 152,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 153,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 154,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 155,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 156,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 157,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 158,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 159,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 160,
+        "question": "Which tool is commonly used in Denial of Service?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 161,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 162,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 163,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 164,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 165,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 166,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 167,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 168,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 169,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 170,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 171,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 172,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 173,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 174,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 175,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 176,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 177,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 178,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 179,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 180,
+        "question": "Which tool is commonly used in Session Hijacking?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 181,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Nmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nmap"
+    },
+    {
+        "id": 182,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Wireshark",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Wireshark"
+    },
+    {
+        "id": 183,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Metasploit",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Metasploit"
+    },
+    {
+        "id": 184,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Nikto",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nikto"
+    },
+    {
+        "id": 185,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Burp Suite",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Burp Suite"
+    },
+    {
+        "id": 186,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "John the Ripper",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "John the Ripper"
+    },
+    {
+        "id": 187,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Aircrack-ng",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Aircrack-ng"
+    },
+    {
+        "id": 188,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Hydra",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hydra"
+    },
+    {
+        "id": 189,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Netcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Netcat"
+    },
+    {
+        "id": 190,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Ettercap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Ettercap"
+    },
+    {
+        "id": 191,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "OpenVAS",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "OpenVAS"
+    },
+    {
+        "id": 192,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Nessus",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Nessus"
+    },
+    {
+        "id": 193,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Sqlmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Sqlmap"
+    },
+    {
+        "id": 194,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Snort",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Snort"
+    },
+    {
+        "id": 195,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Tcpdump",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Tcpdump"
+    },
+    {
+        "id": 196,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Kismet",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Kismet"
+    },
+    {
+        "id": 197,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Maltego",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Maltego"
+    },
+    {
+        "id": 198,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Hashcat",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Hashcat"
+    },
+    {
+        "id": 199,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Cain & Abel",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Cain & Abel"
+    },
+    {
+        "id": 200,
+        "question": "Which tool is commonly used in Hacking Web Servers?",
+        "options": [
+            "Zenmap",
+            "Nessus",
+            "Snort",
+            "OpenVAS"
+        ],
+        "answer": "Zenmap"
+    },
+    {
+        "id": 201,
+        "question": "Jack, a disgruntled ex-employee of Incalsol Ltd., decided to inject fileless malware into Incalsol's systems. To deliver the malware, he used the current employees'\nemail IDs to send fraudulent emails embedded with malicious links that seem to be legitimate. When a victim employee clicks on the link, they are directed to a\nfraudulent website that automatically loads Flash and triggers the exploit. What is the technique used byjack to launch the fileless malware on the target systems?",
+        "options": [
+            "In-memory exploits",
+            "Phishing",
+            "Legitimate applications",
+            "Script-based injection"
+        ],
+        "answer": "Phishing"
+    },
+    {
+        "id": 202,
+        "question": "You want to do an ICMP scan on a remote computer using hping2. What is the proper syntax?",
+        "options": [
+            "hping2 host.domain.com",
+            "hping2 --set-ICMP host.domain.com",
+            "hping2 -i host.domain.com",
+            "hping2 -1 host.domain.com"
+        ],
+        "answer": "hping2 -1 host.domain.com"
+    },
+    {
+        "id": 203,
+        "question": "Based on the below log, which of the following sentences are true?\nMar 1, 2016, 7:33:28 AM 10.240.250.23 - 54373 10.249.253.15 - 22 tcp_ip",
+        "options": [
+            "Application is FTP and 10.240.250.23 is the client and 10.249.253.15 is the server.",
+            "Application is SSH and 10.240.250.23 is the server and 10.249.253.15 is the client.",
+            "SSH communications are encrypted; it’s impossible to know who is the client or the server.",
+            "Application is SSH and 10.240.250.23 is the client and 10.249.253.15 is the server."
+        ],
+        "answer": "Application is SSH and 10.240.250.23 is the client and 10.249.253.15 is the server."
+    },
+    {
+        "id": 204,
+        "question": "What is the following command used for?\nsqlmap.py-u\n,,http://10.10.1.20/?p=1\n&forumaction=search\" -dbs",
+        "options": [
+            "Creating backdoors using SQL injection",
+            "A Enumerating the databases in the DBMS for the URL",
+            "Retrieving SQL statements being executed on the database",
+            "Searching database statements at the IP address given"
+        ],
+        "answer": "Creating backdoors using SQL injection"
+    },
+    {
+        "id": 205,
+        "question": "Which among the following is the best example of the third step (delivery) in the cyber kill chain?",
+        "options": [
+            "An intruder sends a malicious attachment via email to a target.",
+            "An intruder creates malware to be used as a malicious attachment to an email.",
+            "An intruder's malware is triggered when a target opens a malicious email attachment.",
+            "An intruder's malware is installed on a target's machine."
+        ],
+        "answer": "An intruder sends a malicious attachment via email to a target."
+    },
+    {
+        "id": 206,
+        "question": "By performing a penetration test, you gained access under a user account. During the test, you established a connection with your own machine via the SMB\nservice and occasionally entered your login and password in plaintext.\nWhich file do you have to clean to clear the password?",
+        "options": [
+            ".X session-log",
+            ".bashrc",
+            ".profile",
+            ".bash_history"
+        ],
+        "answer": ".bash_history"
+    },
+    {
+        "id": 207,
+        "question": "Jude, a pen tester working in Keiltech Ltd., performs sophisticated security testing on his company's network infrastructure to identify security loopholes. In this\nprocess, he started to circumvent the network protection tools and firewalls used in the company. He employed a technique that can create forged TCP sessions\nby carrying out multiple SYN, ACK, and RST or FIN packets. Further, this process allowed Jude to execute DDoS attacks that can exhaust the network resources.\nWhat is the attack technique used by Jude for finding loopholes in the above scenario?",
+        "options": [
+            "UDP flood attack",
+            "Ping-of-death attack",
+            "Spoofed session flood attack",
+            "Peer-to-peer attack"
+        ],
+        "answer": "Spoofed session flood attack"
+    },
+    {
+        "id": 208,
+        "question": "Alex, a cloud security engineer working in Eyecloud Inc. is tasked with isolating applications from the underlying infrastructure and stimulating communication via\nwell-defined channels. For this purpose, he used an open-source technology that helped him in developing, packaging, and running applications; further, the\ntechnology provides PaaS through OS-level visualization, delivers containerized software packages, and promotes fast software delivery. What is the cloud\ntechnology employed by Alex in the above scenario?",
+        "options": [
+            "Virtual machine",
+            "Serverless computing",
+            "Docker",
+            "Zero trust network"
+        ],
+        "answer": "Docker"
+    },
+    {
+        "id": 209,
+        "question": "Stella, a professional hacker, performs an attack on web services by exploiting a vulnerability that provides additional routing information in the SOAP header to\nsupport asynchronous communication. This further allows the transmission of web-service requests and response messages using different TCP connections.\nWhich of the following attack techniques is used by Stella to compromise the web services?",
+        "options": [
+            "XML injection",
+            "WS-Address spoofing",
+            "SOAPAction spoofing",
+            "Web services parsing attacks"
+        ],
+        "answer": "WS-Address spoofing"
+    },
+    {
+        "id": 210,
+        "question": "The Leader of IT Certification visit - https://www.certleader.com\n100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader\nhttps://www.certleader.com/312-50v12-dumps.html (503 Q&As)You have been authorized to perform a penetration test against a website. You want to use Google dorks to footprint the site but only want results that show file\nextensions. What Google dork operator would you use?",
+        "options": [
+            "filetype",
+            "ext",
+            "inurl",
+            "site"
+        ],
+        "answer": "filetype"
+    },
+    {
+        "id": 211,
+        "question": "Calvin, a grey-hat hacker, targets a web application that has design flaws in its authentication mechanism. He enumerates usernames from the login form of the\nweb application, which requests users to feed data and specifies the incorrect field in case of invalid credentials. Later, Calvin uses this information to perform\nsocial engineering.\nWhich of the following design flaws in the authentication mechanism is exploited by Calvin?",
+        "options": [
+            "Insecure transmission of credentials",
+            "Verbose failure messages",
+            "User impersonation",
+            "Password reset mechanism"
+        ],
+        "answer": "Password reset mechanism"
+    },
+    {
+        "id": 212,
+        "question": "Lewis, a professional hacker, targeted the loT cameras and devices used by a target venture-capital firm. He used an information-gathering tool to collect\ninformation about the loT devices connected to a network, open ports and services, and the attack surface area. Using this tool, he also generated statistical\nreports on broad usage patterns and trends. This tool helped Lewis continually monitor every reachable server and device on the Internet, further allowing him to\nexploit these devices in the network. Which of the following tools was employed by Lewis in the above scenario?",
+        "options": [
+            "Censys",
+            "Wapiti",
+            "NeuVector",
+            "Lacework"
+        ],
+        "answer": "Censys"
+    },
+    {
+        "id": 213,
+        "question": "An attacker changes the profile information of a particular user (victim) on the target website. The attacker uses this string to update the victim’s profile to a text file\nand then submit the data to the attacker’s database.\n<\niframe src=““http://www.vulnweb.com/updateif.php”” style=““display:none””\n> < /iframe >\nWhat is this type of attack (that can use either HTTP GET or HTTP POST) called?",
+        "options": [
+            "Browser Hacking",
+            "Cross-Site Scripting",
+            "SQL Injection",
+            "Cross-Site Request Forgery"
+        ],
+        "answer": "Cross-Site Request Forgery"
+    },
+    {
+        "id": 214,
+        "question": "Tony wants to integrate a 128-bit symmetric block cipher with key sizes of 128,192, or 256 bits into a software program, which involves 32 rounds of computational\noperations that include substitution and permutation operations on four 32-bit word blocks using 8-variable S-boxes with 4-bit entry and 4-bit exit. Which of the\nfollowing algorithms includes all the above features and can be integrated by Tony into the software program?",
+        "options": [
+            "TEA",
+            "CAST-128",
+            "RC5",
+            "serpent"
+        ],
+        "answer": "serpent"
+    },
+    {
+        "id": 215,
+        "question": "When configuring wireless on his home router, Javik disables SSID broadcast. He leaves authentication “open” but sets the SSID to a 32-character string of\nrandom letters and numbers.\nWhat is an accurate assessment of this scenario from a security perspective?",
+        "options": [
+            "Since the SSID is required in order to connect, the 32-character string is sufficient to prevent brute-force attacks.",
+            "Disabling SSID broadcast prevents 802.11 beacons from being transmitted from the access point, resulting in a valid setup leveraging “security through obscurity”.",
+            "It is still possible for a hacker to connect to the network after sniffing the SSID from a successful wireless association.",
+            "Javik’s router is still vulnerable to wireless hacking attempts because the SSID broadcast setting can be enabled using a specially crafted packet sent to the hardware address of the access point."
+        ],
+        "answer": "It is still possible for a hacker to connect to the network after sniffing the SSID from a successful wireless association."
+    },
+    {
+        "id": 216,
+        "question": "You have compromised a server and successfully gained a root access. You want to pivot and pass traffic undetected over the network and evade any possible\nIntrusion Detection System. What is the best approach?",
+        "options": [
+            "Use Alternate Data Streams to hide the outgoing packets from this server.",
+            "Use HTTP so that all traffic can be routed vis a browser, thus evading the internal Intrusion Detection Systems.",
+            "Install Cryptcat and encrypt outgoing packets from this server.",
+            "Install and use Telnet to encrypt all outgoing traffic from this server."
+        ],
+        "answer": "Install Cryptcat and encrypt outgoing packets from this server."
+    },
+    {
+        "id": 217,
+        "question": "Which of the following allows attackers to draw a map or outline the target organization's network infrastructure to know about the actual environment that they are\ngoing to hack.",
+        "options": [
+            "Enumeration",
+            "Vulnerability analysis",
+            "Malware analysis",
+            "Scanning networks"
+        ],
+        "answer": "Scanning networks"
+    },
+    {
+        "id": 218,
+        "question": "A hacker has successfully infected an internet-facing server which he will then use to send junk mail, take part in coordinated attacks, or host junk email content.\nWhich sort of trojan infects this server?",
+        "options": [
+            "Botnet Trojan",
+            "Banking Trojans",
+            "Turtle Trojans",
+            "Ransomware Trojans"
+        ],
+        "answer": "Botnet Trojan"
+    },
+    {
+        "id": 219,
+        "question": "The Leader of IT Certification visit - https://www.certleader.com\n100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader\nhttps://www.certleader.com/312-50v12-dumps.html (503 Q&As)Cross-site request forgery involves:",
+        "options": [
+            "A request sent by a malicious user from a browser to a server",
+            "Modification of a request by a proxy between client and server",
+            "A browser making a request to a server without the user’s knowledge",
+            "A server making a request to another server without the user’s knowledge"
+        ],
+        "answer": "A browser making a request to a server without the user’s knowledge"
+    },
+    {
+        "id": 220,
+        "question": "John, a professional hacker, performs a network attack on a renowned organization and gains unauthorized access to the target network. He remains in the\nnetwork without being detected for a long time and obtains sensitive information without sabotaging the organization. Which of the following attack techniques is\nused by John?",
+        "options": [
+            "Advanced persistent theft",
+            "threat Diversion theft",
+            "Spear-phishing sites",
+            "insider threat"
+        ],
+        "answer": "Advanced persistent theft"
+    },
+    {
+        "id": 221,
+        "question": "Richard, an attacker, targets an MNC In this process, he uses a footprinting technique to gather as much information as possible. Using this technique, he gathers\ndomain information such as the target domain name, contact details of its owner, expiry date, and creation date. With this information, he creates a map of the\norganization's network and misleads domain owners with social engineering to obtain internal details of its network. What type of footprinting technique is\nemployed by Richard?",
+        "options": [
+            "VPN footprinting",
+            "Email footprinting",
+            "VoIP footprinting",
+            "Whois footprinting"
+        ],
+        "answer": "Email footprinting"
+    },
+    {
+        "id": 222,
+        "question": "The Leader of IT Certification visit - https://www.certleader.com\n100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader\nhttps://www.certleader.com/312-50v12-dumps.html (503 Q&As)Peter, a system administrator working at a reputed IT firm, decided to work from his home and login remotely. Later, he anticipated that the remote connection\ncould be exposed to session hijacking. To curb this possibility, he implemented a technique that creates a safe and encrypted tunnel over a public network to\nsecurely send and receive sensitive information and prevent hackers from decrypting the data flow between the endpoints. What is the technique followed by Peter\nto send files securely through a remote connection?",
+        "options": [
+            "DMZ",
+            "SMB signing",
+            "VPN",
+            "Switch network"
+        ],
+        "answer": "VPN"
+    },
+    {
+        "id": 223,
+        "question": "You start performing a penetration test against a specific website and have decided to start from grabbing all the links from the main page.\nWhat Is the best Linux pipe to achieve your milestone?",
+        "options": [
+            "dirb https://site.com | grep \"site\"",
+            "curl -s https://sile.com | grep ‘’< a href-\\’http\" | grep \"Site-com- | cut -d \"V\" -f 2",
+            "wget https://stte.com | grep \"< a href=\\*http\" | grep \"site.com\"",
+            "wgethttps://site.com | cut-d\"http"
+        ],
+        "answer": "wget https://stte.com | grep \"< a href=\\*http\" | grep \"site.com\""
+    },
+    {
+        "id": 224,
+        "question": "To create a botnet. the attacker can use several techniques to scan vulnerable machines. The attacker first collects Information about a large number of vulnerable\nmachines to create a list. Subsequently, they infect the machines. The list Is divided by assigning half of the list to the newly compromised machines. The scanning\nprocess runs simultaneously. This technique ensures the spreading and installation of malicious code in little time.\nWhich technique is discussed here?",
+        "options": [
+            "Hit-list-scanning technique",
+            "Topological scanning technique",
+            "Subnet scanning technique",
+            "Permutation scanning technique"
+        ],
+        "answer": "Hit-list-scanning technique"
+    },
+    {
+        "id": 225,
+        "question": "Samuel, a professional hacker, monitored and Intercepted already established traffic between Bob and a host machine to predict Bob's ISN. Using this ISN,\nSamuel sent spoofed packets with Bob's IP address to the host machine. The host machine responded with <| packet having an Incremented ISN. Consequently.\nBob's connection got hung, and Samuel was able to communicate with the host machine on behalf of Bob. What is the type of attack performed by Samuel in the\nabove scenario?",
+        "options": [
+            "UDP hijacking",
+            "Blind hijacking",
+            "TCP/IP hacking",
+            "Forbidden attack"
+        ],
+        "answer": "TCP/IP hacking"
+    },
+    {
+        "id": 226,
+        "question": "Clark, a professional hacker, attempted to perform a Btlejacking attack using an automated tool, Btlejack, and hardware tool, micro:bit. This attack allowed Clark to\nhijack, read, and export sensitive information shared between connected devices. To perform this attack, Clark executed various btlejack commands. Which of the\nfollowing commands was used by Clark to hijack the connections?",
+        "options": [
+            "btlejack-f 0x129f3244-j",
+            "btlejack -c any",
+            "btlejack -d /dev/ttyACM0 -d /dev/ttyACM2 -s",
+            "btlejack -f 0x9c68fd30 -t -m 0x1 fffffffff"
+        ],
+        "answer": "btlejack -f 0x9c68fd30 -t -m 0x1 fffffffff"
+    },
+    {
+        "id": 227,
+        "question": "A \"Server-Side Includes\" attack refers to the exploitation of a web application by injecting scripts in HTML pages or executing arbitrary code remotely.\nWhich web-page file type, if it exists on the web server, is a strong indication that the server is vulnerable to this kind of attack?",
+        "options": [
+            ".stm",
+            ".html",
+            ".rss",
+            ".cms"
+        ],
+        "answer": ".stm"
+    },
+    {
+        "id": 228,
+        "question": "Kevin, an encryption specialist, implemented a technique that enhances the security of keys used for encryption and authentication. Using this technique, Kevin\ninput an initial key to an algorithm that generated an enhanced key that is resistant to brute-force attacks. What is the technique employed by Kevin to improve the\nsecurity of encryption keys?",
+        "options": [
+            "Key derivation function",
+            "Key reinstallation",
+            "A Public key infrastructure",
+            "Key stretching"
+        ],
+        "answer": "Key stretching"
+    },
+    {
+        "id": 229,
+        "question": "Henry is a penetration tester who works for XYZ organization. While performing enumeration on a client organization, he queries the DNS server for a specific\ncached DNS record. Further, by using this cached record, he determines the sites recently visited by the organization's user. What is the enumeration technique\nused by Henry on the organization?",
+        "options": [
+            "DNS zone walking",
+            "DNS cache snooping",
+            "DNS SEC zone walking",
+            "DNS cache poisoning"
+        ],
+        "answer": "DNS cache snooping"
+    },
+    {
+        "id": 230,
+        "question": "Which of the following Metasploit post-exploitation modules can be used to escalate privileges on Windows systems?",
+        "options": [
+            "getsystem",
+            "getuid",
+            "keylogrecorder",
+            "autoroute"
+        ],
+        "answer": "getsystem"
+    },
+    {
+        "id": 231,
+        "question": "The Leader of IT Certification visit - https://www.certleader.com\n100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader\nhttps://www.certleader.com/312-50v12-dumps.html (503 Q&As)An attacker can employ many methods to perform social engineering against unsuspecting employees, including scareware.\nWhat is the best example of a scareware attack?",
+        "options": [
+            "A pop-up appears to a user stating, \"You have won a free cruise! Click here to claim your prize!\"",
+            "A banner appears to a user stating, \"Your account has been locke",
+            "Click here to reset your password and unlock your account.\"",
+            "A banner appears to a user stating, \"Your Amazon order has been delaye E. Click here to find out your new delivery date.\" F. A pop-up appears to a user stating, \"Your computer may have been infected with spywar G. Click here to install an anti-spyware tool to resolve this issue.\""
+        ],
+        "answer": "A banner appears to a user stating, \"Your Amazon order has been delaye E. Click here to find out your new delivery date.\" F. A pop-up appears to a user stating, \"Your computer may have been infected with spywar G. Click here to install an anti-spyware tool to resolve this issue.\""
+    },
+    {
+        "id": 232,
+        "question": "Chandler works as a pen-tester in an IT-firm in New York. As a part of detecting viruses in the systems, he uses a detection method where the anti-virus executes\nthe malicious codes on a virtual machine to simulate CPU and memory activities. Which type of virus detection method did Chandler use in this context?",
+        "options": [
+            "Heuristic Analysis",
+            "Code Emulation",
+            "Scanning",
+            "Integrity checking"
+        ],
+        "answer": "Code Emulation"
+    },
+    {
+        "id": 233,
+        "question": "Mirai malware targets loT devices. After infiltration, it uses them to propagate and create botnets that then used to launch which types of attack?",
+        "options": [
+            "MITM attack",
+            "Birthday attack",
+            "DDoS attack",
+            "Password attack"
+        ],
+        "answer": "DDoS attack"
+    },
+    {
+        "id": 234,
+        "question": "Jane is working as a security professional at CyberSol Inc. She was tasked with ensuring the authentication and integrity of messages being transmitted in the\ncorporate network. To encrypt the messages, she implemented a security model in which every user in the network maintains a ring of public keys. In this model, a\nuser needs to encrypt a message using the receiver's public key, and only the receiver can decrypt the message using their private key. What is the security model\nimplemented by Jane to secure corporate messages?",
+        "options": [
+            "Zero trust network",
+            "Transport Layer Security (TLS)",
+            "Secure Socket Layer (SSL)",
+            "Web of trust (WOT)"
+        ],
+        "answer": "Web of trust (WOT)"
+    },
+    {
+        "id": 235,
+        "question": "Firewalk has just completed the second phase (the scanning phase) and a technician receives the output shown below. What conclusions can be drawn based on\nthese scan results?\nTCP port 21 no response TCP port 22 no response\nTCP port 23 Time-to-live exceeded",
+        "options": [
+            "The lack of response from ports 21 and 22 indicate that those services are not running on the destination server",
+            "The scan on port 23 was able to make a connection to the destination host prompting the firewall to respond with a TTL error",
+            "The scan on port 23 passed through the filtering devic",
+            "This indicates that port 23 was not blocked at the firewall E. The firewall itself is blocking ports 21 through 23 and a service is listening on port 23 of the target host"
+        ],
+        "answer": "The scan on port 23 passed through the filtering devic"
+    },
+    {
+        "id": 236,
+        "question": "Which wireless security protocol replaces the personal pre-shared key (PSK) authentication with Simultaneous Authentication of Equals (SAE) and is therefore\nresistant to offline dictionary attacks?",
+        "options": [
+            "WPA3-Personal",
+            "WPA2-Enterprise",
+            "Bluetooth",
+            "ZigBee"
+        ],
+        "answer": "WPA3-Personal"
+    },
+    {
+        "id": 237,
+        "question": "James is working as an ethical hacker at Technix Solutions. The management ordered James to discover how vulnerable its network is towards footprinting\nattacks. James took the help of an open-source framework for performing automated reconnaissance activities. This framework helped James in gathering\ninformation using free tools and resources. What is the framework used by James to conduct footprinting and reconnaissance activities?",
+        "options": [
+            "WebSploit Framework",
+            "Browser Exploitation Framework",
+            "OSINT framework",
+            "SpeedPhish Framework"
+        ],
+        "answer": "OSINT framework"
+    },
+    {
+        "id": 238,
+        "question": "CyberTech Inc. recently experienced SQL injection attacks on its official website. The company appointed Bob, a security professional, to build and incorporate\ndefensive strategies against such attacks. Bob adopted a practice whereby only a list of entities such as the data type, range, size, and value, which have been\napproved for secured access, is accepted. What is the defensive technique employed by Bob in the above scenario?",
+        "options": [
+            "Output encoding",
+            "Enforce least privileges",
+            "Whitelist validation",
+            "Blacklist validation"
+        ],
+        "answer": "Whitelist validation"
+    },
+    {
+        "id": 239,
+        "question": "An attacker scans a host with the below command. Which three flags are set?\n# nmap -sX host.domain.com",
+        "options": [
+            "This is SYN sca",
+            "SYN flag is set.",
+            "This is Xmas sca",
+            "URG, PUSH and FIN are set. E. This is ACK sca F. ACK flag is set. G. This is Xmas sca H. SYN and ACK flags are set."
+        ],
+        "answer": "SYN flag is set."
+    },
+    {
+        "id": 240,
+        "question": "Which of the following Google advanced search operators helps an attacker in gathering information about websites that are similar to a specified target URL?",
+        "options": [
+            "[inurl:]",
+            "[related:]",
+            "[info:]",
+            "[site:]"
+        ],
+        "answer": "[related:]"
+    },
+    {
+        "id": 241,
+        "question": "If executives are found liable for not properly protecting their company’s assets and information systems, what type of law would apply in this situation?",
+        "options": [
+            "Criminal",
+            "International",
+            "Common",
+            "Civil"
+        ],
+        "answer": "Civil"
+    },
+    {
+        "id": 242,
+        "question": "To hide the file on a Linux system, you have to start the filename with a specific character. What is the character?",
+        "options": [
+            "Exclamation mark (!)",
+            "Underscore (_)",
+            "Tilde H",
+            "Period (.)"
+        ],
+        "answer": "Period (.)"
+    },
+    {
+        "id": 243,
+        "question": "Kevin, a professional hacker, wants to penetrate CyberTech Inc.’s network. He employed a technique, using which he encoded packets with Unicode characters.\nThe company’s IDS cannot recognize the packet, but the target web server can decode them.\nWhat is the technique used by Kevin to evade the IDS system?",
+        "options": [
+            "Desynchronization",
+            "Obfuscating",
+            "Session splicing",
+            "Urgency flag"
+        ],
+        "answer": "Obfuscating"
+    },
+    {
+        "id": 244,
+        "question": "An attacker identified that a user and an access point are both compatible with WPA2 and WPA3 encryption. The attacker installed a rogue access point with only\nWPA2 compatibility in the vicinity and forced the victim to go through the WPA2 four-way handshake to get connected. After the connection was established, the\nattacker used automated tools to crack WPA2-encrypted messages. What is the attack performed in the above scenario?",
+        "options": [
+            "Timing-based attack",
+            "Side-channel attack",
+            "Downgrade security attack",
+            "Cache-based attack"
+        ],
+        "answer": "Side-channel attack"
+    },
+    {
+        "id": 245,
+        "question": "Miley, a professional hacker, decided to attack a target organization's network. To perform the attack, she used a tool to send fake ARP messages over the target\nnetwork to link her MAC address with the target system's IP address. By performing this, Miley received messages directed to the victim's MAC address and\nfurther used the tool to intercept, steal, modify, and block sensitive communication to the target system. What is the tool employed by Miley to perform the above\nattack?",
+        "options": [
+            "Gobbler",
+            "KDerpNSpoof",
+            "BetterCAP",
+            "Wireshark"
+        ],
+        "answer": "BetterCAP"
+    },
+    {
+        "id": 246,
+        "question": "You have compromised a server on a network and successfully opened a shell. You aimed to identify all operating systems running on the network. However, as\nyou attempt to fingerprint all machines in the network using the nmap syntax below, it is not going through.\ninvictus@victim_server.~$ nmap -T4 -O 10.10.0.0/24 TCP/IP fingerprinting (for OS scan) xxxxxxx xxxxxx\nxc. QUITTING!\nWhat seems to be wrong?",
+        "options": [
+            "The nmap syntax is wrong.",
+            "This is a common behavior for a corrupted nmap application.",
+            "The outgoing TCP/IP fingerprinting is blocked by the host firewall.",
+            "OS Scan requires root privileges."
+        ],
+        "answer": "OS Scan requires root privileges."
+    },
+    {
+        "id": 247,
+        "question": "A penetration tester is performing the footprinting process and is reviewing publicly available information about an organization by using the Google search engine.\nWhich of the following advanced operators would allow the pen tester to restrict the search to the organization’s web domain?",
+        "options": [
+            "[allinurl:]",
+            "[location:]",
+            "[site:]",
+            "[link:]"
+        ],
+        "answer": "[site:]"
+    },
+    {
+        "id": 248,
+        "question": "Mary, a penetration tester, has found password hashes in a client system she managed to breach. She needs to use these passwords to continue with the test, but\nshe does not have time to find the passwords that correspond to these hashes. Which type of attack can she implement in order to continue?",
+        "options": [
+            "LLMNR/NBT-NS poisoning",
+            "Internal monologue attack",
+            "Pass the ticket",
+            "Pass the hash"
+        ],
+        "answer": "Pass the hash"
+    },
+    {
+        "id": 249,
+        "question": "Leverox Solutions hired Arnold, a security professional, for the threat intelligence process. Arnold collected information about specific threats against the\norganization. From this information, he retrieved contextual information about security events and incidents that helped him disclose potential risks and gain insight\ninto attacker methodologies. He collected the information from sources such as humans, social media, and chat\nrooms as well as from events that resulted in cyberattacks. In this process, he also prepared a report that includes identified malicious activities, recommended\ncourses of action, and warnings for emerging attacks. What is the type of threat intelligence collected by Arnold in the above scenario?",
+        "options": [
+            "Strategic threat intelligence",
+            "Tactical threat intelligence",
+            "Operational threat intelligence",
+            "Technical threat intelligence"
+        ],
+        "answer": "Operational threat intelligence"
+    },
+    {
+        "id": 250,
+        "question": "You are tasked to configure the DHCP server to lease the last 100 usable IP addresses in subnet to. 1.4.0/23. Which of the following IP addresses could be teased\nas a result of the new configuration?",
+        "options": [
+            "210.1.55.200",
+            "10.1.4.254",
+            "10.1.5.200",
+            "10.1.4.156"
+        ],
+        "answer": "10.1.5.200"
+    },
+    {
+        "id": 251,
+        "question": "Which of the following options represents a conceptual characteristic of an anomaly-based IDS over a signature-based IDS?",
+        "options": [
+            "Produces less false positives",
+            "Can identify unknown attacks",
+            "Requires vendor updates for a new threat",
+            "Cannot deal with encrypted network traffic"
+        ],
+        "answer": "Can identify unknown attacks"
+    },
+    {
+        "id": 252,
+        "question": "From the following table, identify the wrong answer in terms of Range (ft). Standard Range (ft)\n* 802.11a 150-150\n* 802.11b 150-150\n* 802.11g 150-150\n* 802.16 (WiMax) 30 miles",
+        "options": [
+            "802.16 (WiMax)",
+            "802.11g",
+            "802.11b",
+            "802.11a"
+        ],
+        "answer": "802.16 (WiMax)"
+    },
+    {
+        "id": 253,
+        "question": "if you send a TCP ACK segment to a known closed port on a firewall but it does not respond with an RST. what do you know about the firewall you are scanning?",
+        "options": [
+            "There is no firewall in place.",
+            "This event does not tell you encrypting about the firewall.",
+            "It is a stateful firewall",
+            "It Is a non-stateful firewall."
+        ],
+        "answer": "This event does not tell you encrypting about the firewall."
+    },
+    {
+        "id": 254,
+        "question": "Which of the following statements is TRUE?",
+        "options": [
+            "Packet Sniffers operate on the Layer 1 of the OSI model.",
+            "Packet Sniffers operate on Layer 2 of the OSI model.",
+            "Packet Sniffers operate on both Layer 2 & Layer 3 of the OSI model.",
+            "Packet Sniffers operate on Layer 3 of the OSI model."
+        ],
+        "answer": "Packet Sniffers operate on Layer 2 of the OSI model."
+    },
+    {
+        "id": 255,
+        "question": "A group of hackers were roaming around a bank office building in a city, driving a luxury car. They were using hacking tools on their laptop with the intention to find\na free-access wireless network. What is this hacking process known as?",
+        "options": [
+            "GPS mapping",
+            "Spectrum analysis",
+            "Wardriving",
+            "Wireless sniffing"
+        ],
+        "answer": "Wardriving"
+    },
+    {
+        "id": 256,
+        "question": "Eric, a cloud security engineer, implements a technique for securing the cloud resources used by his organization. This technique assumes by default that a user\nattempting to access the network is not an authentic entity and verifies every incoming connection before allowing access to the network. Using this technique, he\nalso imposed conditions such that employees can access only the resources required for their role.\nWhat is the technique employed by Eric to secure cloud resources?",
+        "options": [
+            "Serverless computing",
+            "Demilitarized zone",
+            "Container technology",
+            "Zero trust network"
+        ],
+        "answer": "Zero trust network"
+    },
+    {
+        "id": 257,
+        "question": "What would be the purpose of running \"wget 192.168.0.15 -q -S\" against a web server?",
+        "options": [
+            "Performing content enumeration on the web server to discover hidden folders",
+            "Using wget to perform banner grabbing on the webserver",
+            "Flooding the web server with requests to perform a DoS attack",
+            "Downloading all the contents of the web page locally for further examination"
+        ],
+        "answer": "Using wget to perform banner grabbing on the webserver"
+    },
+    {
+        "id": 258,
+        "question": "Mike, a security engineer, was recently hired by BigFox Ltd. The company recently experienced disastrous DoS attacks. The management had instructed Mike to\nbuild defensive strategies for the company's IT infrastructure to thwart DoS/DDoS attacks. Mike deployed some countermeasures to handle jamming and\nscrambling attacks. What is the countermeasure Mike applied to defend against jamming and scrambling attacks?",
+        "options": [
+            "Allow the usage of functions such as gets and strcpy",
+            "Allow the transmission of all types of addressed packets at the ISP level",
+            "Implement cognitive radios in the physical layer",
+            "A Disable TCP SYN cookie protection"
+        ],
+        "answer": "A Disable TCP SYN cookie protection"
+    },
+    {
+        "id": 259,
+        "question": "Jude, a pen tester, examined a network from a hacker's perspective to identify exploits and vulnerabilities accessible to the outside world by using devices such as\nfirewalls, routers, and servers. In this process, he also estimated the threat of network security attacks and determined the level of security of the corporate\nnetwork.\nWhat is the type of vulnerability assessment that Jude performed on the organization?",
+        "options": [
+            "External assessment",
+            "Passive assessment",
+            "Host-based assessment",
+            "Application assessment"
+        ],
+        "answer": "External assessment"
+    },
+    {
+        "id": 260,
+        "question": "In an attempt to damage the reputation of a competitor organization, Hailey, a professional hacker, gathers a list of employee and client email addresses and other\nrelated information by using various search engines, social networking sites, and web spidering tools. In this process, she also uses an automated tool to gather a\nlist of words from the target website to further perform a brute-force attack on the previously gathered email addresses.\nWhat is the tool used by Hailey for gathering a list of words from the target website?",
+        "options": [
+            "Shadowsocks",
+            "CeWL",
+            "Psiphon",
+            "Orbot"
+        ],
+        "answer": "CeWL"
+    },
+    {
+        "id": 261,
+        "question": "Mason, a professional hacker, targets an organization and spreads Emotet malware through malicious script. After infecting the victim's device. Mason further used\nEmotet to spread the infection across local networks and beyond to compromise as many machines as possible. In this process, he used a tool, which is a self-\nextracting RAR file, to retrieve information related to network resources such as writable share drives. What is the tool employed by Mason in the above scenario?",
+        "options": [
+            "NetPass.exe",
+            "Outlook scraper",
+            "WebBrowserPassView",
+            "Credential enumerator"
+        ],
+        "answer": "Credential enumerator"
+    },
+    {
+        "id": 262,
+        "question": "in this form of encryption algorithm, every Individual block contains 64-bit data, and three keys are used,\nwhere each key consists of 56 bits. Which is this encryption algorithm?",
+        "options": [
+            "IDEA",
+            "Triple Data Encryption standard",
+            "MDS encryption algorithm",
+            "AES"
+        ],
+        "answer": "Triple Data Encryption standard"
+    },
+    {
+        "id": 263,
+        "question": "You are using a public Wi-Fi network inside a coffee shop. Before surfing the web, you use your VPN to prevent intruders from sniffing your traffic. If you did not\nhave a VPN, how would you identify whether someone is performing an ARP spoofing attack on your laptop?",
+        "options": [
+            "You should check your ARP table and see if there is one IP address with two different MAC addresses.",
+            "You should scan the network using Nmap to check the MAC addresses of all the hosts and look for duplicates.",
+            "You should use netstat to check for any suspicious connections with another IP address within the LAN.",
+            "You cannot identify such an attack and must use a VPN to protect your traffic, r"
+        ],
+        "answer": "You should check your ARP table and see if there is one IP address with two different MAC addresses."
+    },
+    {
+        "id": 264,
+        "question": "An organization has automated the operation of critical infrastructure from a remote location. For this purpose, all the industrial control systems are connected to\nthe Internet. To empower the manufacturing process, ensure the reliability of industrial networks, and reduce downtime and service disruption, the organization\ndeckled to install an OT security tool that further protects against security incidents such as cyber espionage, zero-day attacks, and malware. Which of the\nfollowing tools must the organization employ to protect its critical infrastructure?",
+        "options": [
+            "Robotium",
+            "BalenaCloud",
+            "Flowmon",
+            "IntentFuzzer"
+        ],
+        "answer": "Flowmon"
+    },
+    {
+        "id": 265,
+        "question": "Calvin, a software developer, uses a feature that helps him auto-generate the content of a web page without manual involvement and is integrated with SSI\ndirectives. This leads to a vulnerability in the developed web application as this feature accepts remote user inputs and uses them on the page. Hackers can\nexploit this feature and pass malicious SSI directives as input values to perform malicious activities such as modifying and erasing server files. What is the type of\ninjection attack Calvin's web application is susceptible to?",
+        "options": [
+            "Server-side template injection",
+            "Server-side JS injection",
+            "CRLF injection",
+            "Server-side includes injection"
+        ],
+        "answer": "Server-side includes injection"
+    },
+    {
+        "id": 266,
+        "question": "Mary found a high vulnerability during a vulnerability scan and notified her server team. After analysis, they sent her proof that a fix to that issue had already been\napplied. The vulnerability that Marry found is called what?",
+        "options": [
+            "False-negative",
+            "False-positive",
+            "Brute force attack",
+            "Backdoor"
+        ],
+        "answer": "False-positive"
+    },
+    {
+        "id": 267,
+        "question": "When considering how an attacker may exploit a web server, what is web server footprinting?",
+        "options": [
+            "When an attacker implements a vulnerability scanner to identify weaknesses",
+            "When an attacker creates a complete profile of the site's external links and file structures",
+            "When an attacker gathers system-level data, including account details and server names",
+            "When an attacker uses a brute-force attack to crack a web-server password"
+        ],
+        "answer": "When an attacker creates a complete profile of the site's external links and file structures"
+    },
+    {
+        "id": 268,
+        "question": "Morris, an attacker, wanted to check whether the target AP is in a locked state. He attempted using different utilities to identify WPS-enabled APs in the target\nwireless network. Ultimately, he succeeded with one special command-line utility. Which of the following command-line utilities allowed Morris to discover the\nWPS-enabled APs?",
+        "options": [
+            "wash",
+            "ntptrace",
+            "macof",
+            "net View"
+        ],
+        "answer": "wash"
+    },
+    {
+        "id": 269,
+        "question": "In both pharming and phishing attacks, an attacker can create websites that look similar to legitimate sites with the intent of collecting personal identifiable\ninformation from its victims.\nWhat is the difference between pharming and phishing attacks?",
+        "options": [
+            "In a pharming attack, a victim is redirected to a fake website by modifying their host configuration file or by exploiting vulnerabilities in DN",
+            "In a phishing attack, an attacker provides the victim with a URL that is either misspelled or looks similar to the actual websites domain name",
+            "In a phishing attack, a victim is redirected to a fake website by modifying their host configuration file or by exploiting vulnerabilities in DN",
+            "In a pharming attack, an attacker provides the victim with a URL that is either misspelled or looks very similar to the actual websites domain name E. Both pharming and phishing attacks are purely technical and are not considered forms of social engineering F. Both pharming and phishing attacks are identical"
+        ],
+        "answer": "In a pharming attack, a victim is redirected to a fake website by modifying their host configuration file or by exploiting vulnerabilities in DN"
+    },
+    {
+        "id": 270,
+        "question": "Becky has been hired by a client from Dubai to perform a penetration test against one of their remote offices. Working from her location in Columbus, Ohio, Becky\nruns her usual reconnaissance scans to obtain basic information about their network. When analyzing the results of her Whois search, Becky notices that the IP\nwas allocated to a location in Le Havre, France. Which regional Internet registry should Becky go to for detailed information?",
+        "options": [
+            "ARIN",
+            "APNIC",
+            "RIPE",
+            "LACNIC"
+        ],
+        "answer": "RIPE"
+    },
+    {
+        "id": 271,
+        "question": "A computer science student needs to fill some information into a secured Adobe PDF job application that was received from a prospective employer. Instead of\nrequesting a new document that allowed the forms to be completed, the student decides to write a script that pulls passwords from a list of commonly used\npasswords to try against the secured PDF until the correct password is found or the list is exhausted.\nWhich cryptography attack is the student attempting?",
+        "options": [
+            "Man-in-the-middle attack",
+            "Brute-force attack",
+            "Dictionary attack",
+            "Session hijacking"
+        ],
+        "answer": "Dictionary attack"
+    },
+    {
+        "id": 272,
+        "question": "Ron, a security professional, was pen testing web applications and SaaS platforms used by his company. While testing, he found a vulnerability that allows\nhackers to gain unauthorized access to API objects and perform actions such as view, update, and delete sensitive data of the company. What is the API\nvulnerability revealed in the above scenario?",
+        "options": [
+            "Code injections",
+            "Improper use of CORS",
+            "No ABAC validation",
+            "Business logic flaws"
+        ],
+        "answer": "Improper use of CORS"
+    },
+    {
+        "id": 273,
+        "question": "A Security Engineer at a medium-sized accounting firm has been tasked with discovering how much information can be obtained from the firm’s public facing web\nservers. The engineer decides to start by using netcat to port 80.\nThe engineer receives this output: HTTP/1.1 200 OK\nServer: Microsoft-IIS/6\nExpires: Tue, 17 Jan 2011 01:41:33 GMT\nDate: Mon, 16 Jan 2011 01:41:33 GMT\nContent-Type: text/html Accept-Ranges: bytes\nLast Modified: Wed, 28 Dec 2010 15:32:21 GMT ETag:“b0aac0542e25c31:89d”\nContent-Length: 7369\nWhich of the following is an example of what the engineer performed?",
+        "options": [
+            "Banner grabbing",
+            "SQL injection",
+            "Whois database query",
+            "Cross-site scripting"
+        ],
+        "answer": "Banner grabbing"
+    },
+    {
+        "id": 274,
+        "question": "An Internet Service Provider (ISP) has a need to authenticate users connecting via analog modems, Digital Subscriber Lines (DSL), wireless data services, and\nVirtual Private Networks (VPN) over a Frame Relay network.\nWhich AAA protocol is the most likely able to handle this requirement?",
+        "options": [
+            "TACACS+",
+            "DIAMETER",
+            "Kerberos",
+            "RADIUS"
+        ],
+        "answer": "RADIUS"
+    },
+    {
+        "id": 275,
+        "question": "A security analyst uses Zenmap to perform an ICMP timestamp ping scan to acquire information related to the current time from the target host machine.\nWhich of the following Zenmap options must the analyst use to perform the ICMP timestamp ping scan?",
+        "options": [
+            "-PY",
+            "-PU",
+            "-PP",
+            "-Pn"
+        ],
+        "answer": "-PP"
+    },
+    {
+        "id": 276,
+        "question": "Which type of attack attempts to overflow the content-addressable memory (CAM) table in an Ethernet switch?",
+        "options": [
+            "Evil twin attack",
+            "DNS cache flooding",
+            "MAC flooding",
+            "DDoS attack"
+        ],
+        "answer": "MAC flooding"
+    },
+    {
+        "id": 277,
+        "question": "Which iOS jailbreaking technique patches the kernel during the device boot so that it becomes jailbroken after each successive reboot?",
+        "options": [
+            "Tethered jailbreaking",
+            "Semi-tethered jailbreaking",
+            "Untethered jailbreaking",
+            "Semi-Untethered jailbreaking"
+        ],
+        "answer": "Untethered jailbreaking"
+    },
+    {
+        "id": 278,
+        "question": "what are common files on a web server that can be misconfigured and provide useful Information for a hacker such as verbose error messages?",
+        "options": [
+            "httpd.conf",
+            "administration.config",
+            "idq.dll",
+            "php.ini"
+        ],
+        "answer": "php.ini"
+    },
+    {
+        "id": 279,
+        "question": "Larry, a security professional in an organization, has noticed some abnormalities In the user accounts on a web server. To thwart evolving attacks, he decided to\nharden the security of the web server by adopting a countermeasures to secure the accounts on the web server.\nWhich of the following countermeasures must Larry implement to secure the user accounts on the web server?",
+        "options": [
+            "Enable unused default user accounts created during the installation of an OS",
+            "Enable all non-interactive accounts that should exist but do not require interactive login",
+            "Limit the administrator or toot-level access to the minimum number of users",
+            "Retain all unused modules and application extensions"
+        ],
+        "answer": "Limit the administrator or toot-level access to the minimum number of users"
+    },
+    {
+        "id": 280,
+        "question": "Bella, a security professional working at an it firm, finds that a security breach has occurred while transferring important files. Sensitive data, employee usernames.\nand passwords are shared In plaintext, paving the way for hackers 10 perform successful session hijacking. To address this situation. Bella Implemented a\nprotocol that sends data using encryption and digital certificates. Which of the following protocols Is used by Bella?",
+        "options": [
+            "FTP",
+            "HTTPS",
+            "FTPS",
+            "IP"
+        ],
+        "answer": "FTPS"
+    },
+    {
+        "id": 281,
+        "question": "Henry Is a cyber security specialist hired by BlackEye - Cyber security solutions. He was tasked with discovering the operating system (OS) of a host. He used the\nUnkornscan tool to discover the OS of the target system. As a result, he obtained a TTL value, which Indicates that the target system is running a Windows OS.\nIdentify the TTL value Henry obtained, which indicates that the target OS is Windows.",
+        "options": [
+            "64",
+            "128",
+            "255",
+            "138"
+        ],
+        "answer": "128"
+    },
+    {
+        "id": 282,
+        "question": "A pen tester is configuring a Windows laptop for a test. In setting up Wireshark, what river and library are required to allow the NIC to work in promiscuous mode?",
+        "options": [
+            "Libpcap",
+            "Awinpcap",
+            "Winprom",
+            "Winpcap"
+        ],
+        "answer": "Winpcap"
+    },
+    {
+        "id": 283,
+        "question": "John wants to send Marie an email that includes sensitive information, and he does not trust the network that he is connected to. Marie gives him the idea of using\nPGP. What should John do to communicate correctly using this type of encryption?",
+        "options": [
+            "Use his own public key to encrypt the message.",
+            "Use Marie's public key to encrypt the message.",
+            "Use his own private key to encrypt the message.",
+            "Use Marie's private key to encrypt the message."
+        ],
+        "answer": "Use Marie's public key to encrypt the message."
+    },
+    {
+        "id": 284,
+        "question": "You receive an e-mail like the one shown below. When you click on the link contained in the mail, you are redirected to a website seeking you to download free\nAnti-Virus software.\nDear valued customers,\nWe are pleased to announce the newest version of Antivirus 2010 for Windows which will probe you with total security against the latest spyware, malware,\nviruses, Trojans and other online threats. Simply visit the link below and enter your antivirus code:\nor you may contact us at the following address: Media Internet Consultants, Edif. Neptuno, Planta\nBaja, Ave. Ricardo J. Alfaro, Tumba Muerto, n/a Panama\nHow will you determine if this is Real Anti-Virus or Fake Anti-Virus website?",
+        "options": [
+            "Look at the website design, if it looks professional then it is a Real Anti-Virus website",
+            "Connect to the site using SSL, if you are successful then the website is genuine",
+            "Search using the URL and Anti-Virus product name into Google and lookout for suspicious warnings against this site",
+            "Download and install Anti-Virus software from this suspicious looking site, your Windows 7 will prompt you and stop the installation if the downloaded file is a malware E. Download and install Anti-Virus software from this suspicious looking site, your Windows 7 will prompt you and stop the installation if the downloaded file is a The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)malware"
+        ],
+        "answer": "Search using the URL and Anti-Virus product name into Google and lookout for suspicious warnings against this site"
+    },
+    {
+        "id": 285,
+        "question": "John is an incident handler at a financial institution. His steps in a recent incident are not up to the standards of the company. John frequently forgets some steps\nand procedures while handling responses as they are very stressful to perform. Which of the following actions should John take to overcome this problem with the\nleast administrative effort?",
+        "options": [
+            "Create an incident checklist.",
+            "Select someone else to check the procedures.",
+            "Increase his technical skills.",
+            "Read the incident manual every time it occurs."
+        ],
+        "answer": "Increase his technical skills."
+    },
+    {
+        "id": 286,
+        "question": "Which of the following commands checks for valid users on an SMTP server?",
+        "options": [
+            "RCPT",
+            "CHK",
+            "VRFY",
+            "EXPN"
+        ],
+        "answer": "VRFY"
+    },
+    {
+        "id": 287,
+        "question": "Fred is the network administrator for his company. Fred is testing an internal switch.\nFrom an external IP address, Fred wants to try and trick this switch into thinking it already has established a session with his computer. How can Fred accomplish\nthis?",
+        "options": [
+            "Fred can accomplish this by sending an IP packet with the RST/SIN bit and the source address of his computer.",
+            "He can send an IP packet with the SYN bit and the source address of his computer.",
+            "Fred can send an IP packet with the ACK bit set to zero and the source address of the switch.",
+            "Fred can send an IP packet to the switch with the ACK bit and the source address of his machine."
+        ],
+        "answer": "Fred can send an IP packet to the switch with the ACK bit and the source address of his machine."
+    },
+    {
+        "id": 288,
+        "question": "Which of the following are well known password-cracking programs?",
+        "options": [
+            "L0phtcrack",
+            "NetCat",
+            "Jack the Ripper",
+            "Netbus E. John the Ripper"
+        ],
+        "answer": "L0phtcrack"
+    },
+    {
+        "id": 289,
+        "question": "You went to great lengths to install all the necessary technologies to prevent hacking attacks, such as expensive firewalls, antivirus software, anti-spam systems\nand intrusion detection/prevention tools in your company's network. You have configured the most secure policies and tightened every device on your\nnetwork. You are confident that hackers will never be able to gain access to your network with complex security system in place.\nYour peer, Peter Smith who works at the same department disagrees with you.\nHe says even the best network security technologies cannot prevent hackers gaining access to the network because of presence of \"weakest link\" in the security\nchain.\nWhat is Peter Smith talking about?",
+        "options": [
+            "Untrained staff or ignorant computer users who inadvertently become the weakest link in your security chain",
+            "\"zero-day\" exploits are the weakest link in the security chain since the IDS will not be able to detect these attacks",
+            "\"Polymorphic viruses\" are the weakest link in the security chain since the Anti-Virus scanners will not be able to detect these attacks",
+            "Continuous Spam e-mails cannot be blocked by your security system since spammers use different techniques to bypass the filters in your gateway"
+        ],
+        "answer": "Untrained staff or ignorant computer users who inadvertently become the weakest link in your security chain"
+    },
+    {
+        "id": 290,
+        "question": "The Leader of IT Certification visit - https://www.certleader.com\n100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader\nhttps://www.certleader.com/312-50v12-dumps.html (503 Q&As)When discussing passwords, what is considered a brute force attack?",
+        "options": [
+            "You attempt every single possibility until you exhaust all possible combinations or discover the password",
+            "You threaten to use the rubber hose on someone unless they reveal their password",
+            "You load a dictionary of words into your cracking program",
+            "You create hashes of a large number of words and compare it with the encrypted passwords E. You wait until the password expires"
+        ],
+        "answer": "You attempt every single possibility until you exhaust all possible combinations or discover the password"
+    },
+    {
+        "id": 291,
+        "question": "Which of the following is the primary objective of a rootkit?",
+        "options": [
+            "It opens a port to provide an unauthorized service",
+            "It creates a buffer overflow",
+            "It replaces legitimate programs",
+            "It provides an undocumented opening in a program"
+        ],
+        "answer": "It replaces legitimate programs"
+    },
+    {
+        "id": 292,
+        "question": "What port number is used by LDAP protocol?",
+        "options": [
+            "110",
+            "389",
+            "464",
+            "445"
+        ],
+        "answer": "389"
+    },
+    {
+        "id": 293,
+        "question": "in an attempt to increase the security of your network, you Implement a solution that will help keep your wireless network undiscoverable and accessible only to\nthose that know It. How do you accomplish this?",
+        "options": [
+            "Delete the wireless network",
+            "Remove all passwords",
+            "Lock all users",
+            "Disable SSID broadcasting"
+        ],
+        "answer": "Disable SSID broadcasting"
+    },
+    {
+        "id": 294,
+        "question": "In the field of cryptanalysis, what is meant by a “rubber-hose\" attack?",
+        "options": [
+            "Attempting to decrypt cipher text by making logical assumptions about the contents of the original plain text.",
+            "Extraction of cryptographic secrets through coercion or torture.",
+            "Forcing the targeted key stream through a hardware-accelerated device such as an ASIC.",
+            "A backdoor placed into a cryptographic algorithm by its creator."
+        ],
+        "answer": "Extraction of cryptographic secrets through coercion or torture."
+    },
+    {
+        "id": 295,
+        "question": "The Leader of IT Certification visit - https://www.certleader.com\n100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader\nhttps://www.certleader.com/312-50v12-dumps.html (503 Q&As)Taylor, a security professional, uses a tool to monitor her company's website, analyze the website's traffic, and track the geographical location of the users visiting\nthe company's website. Which of the following tools did Taylor employ in the above scenario?",
+        "options": [
+            "WebSite Watcher",
+            "web-Stat",
+            "Webroot",
+            "WAFW00F"
+        ],
+        "answer": "web-Stat"
+    },
+    {
+        "id": 296,
+        "question": "George is a security professional working for iTech Solutions. He was tasked with securely transferring sensitive data of the organization between industrial\nsystems. In this process, he used a short-range communication protocol based on the IEEE 203.15.4 standard. This protocol is used in devices that transfer data\ninfrequently at a low rate in a restricted area, within a range of 10-100 m. What is the short-range wireless communication technology George employed in the\nabove scenario?",
+        "options": [
+            "MQTT",
+            "LPWAN",
+            "Zigbee",
+            "NB-IoT"
+        ],
+        "answer": "Zigbee"
+    },
+    {
+        "id": 297,
+        "question": "How is the public key distributed in an orderly, controlled fashion so that the users can be sure of the sender’s identity?",
+        "options": [
+            "Hash value",
+            "Private key",
+            "Digital signature",
+            "Digital certificate"
+        ],
+        "answer": "Digital certificate"
+    },
+    {
+        "id": 298,
+        "question": "which of the following Bluetooth hacking techniques refers to the theft of information from a wireless device through Bluetooth?",
+        "options": [
+            "Bluesmacking",
+            "Bluebugging",
+            "Bluejacking",
+            "Bluesnarfing The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)"
+        ],
+        "answer": "Bluesnarfing The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)"
+    },
+    {
+        "id": 299,
+        "question": "OpenSSL on Linux servers includes a command line tool for testing TLS. What is the name of the tool and the correct syntax to connect to a web server?",
+        "options": [
+            "openssl s_client -site www.website.com:443",
+            "openssl_client -site www.website.com:443",
+            "openssl s_client -connect www.website.com:443",
+            "openssl_client -connect www.website.com:443"
+        ],
+        "answer": "openssl s_client -connect www.website.com:443"
+    },
+    {
+        "id": 300,
+        "question": "Bobby, an attacker, targeted a user and decided to hijack and intercept all their wireless communications. He installed a fake communication tower between two\nauthentic endpoints to mislead the victim. Bobby used this virtual tower to interrupt the data transmission between the user and real tower, attempting to hijack an\nactive session, upon receiving the users request. Bobby manipulated the traffic with the virtual tower and redirected the victim to a malicious website. What is the\nattack performed by Bobby in the above scenario?",
+        "options": [
+            "Wardriving",
+            "KRACK attack",
+            "jamming signal attack",
+            "aLTEr attack"
+        ],
+        "answer": "aLTEr attack"
+    },
+    {
+        "id": 301,
+        "question": "What is the purpose of DNS AAAA record?",
+        "options": [
+            "Authorization, Authentication and Auditing record",
+            "Address prefix record",
+            "Address database record",
+            "IPv6 address resolution record"
+        ],
+        "answer": "IPv6 address resolution record"
+    },
+    {
+        "id": 302,
+        "question": "John, a professional hacker, targeted an organization that uses LDAP for accessing distributed directory services. He used an automated tool to anonymously\nquery the IDAP service for sensitive information such as usernames. addresses, departmental details, and server names to launch further attacks on the target\norganization.\nWhat is the tool employed by John to gather information from the IDAP service?",
+        "options": [
+            "jxplorer The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)B. Zabasearch",
+            "EarthExplorer",
+            "Ike-scan"
+        ],
+        "answer": "jxplorer The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)B. Zabasearch"
+    },
+    {
+        "id": 303,
+        "question": "Jason, an attacker, targeted an organization to perform an attack on its Internet-facing web server with the intention of gaining access to backend servers, which\nare protected by a firewall. In this process, he used a URL https://xyz.com/feed.php?url:externaIsile.com/feed/to to obtain a remote feed and altered the URL input\nto the local host to view all the local resources on the target server. What is the type of attack Jason performed In the above scenario?",
+        "options": [
+            "website defacement",
+            "Server-side request forgery (SSRF) attack",
+            "Web server misconfiguration",
+            "web cache poisoning attack"
+        ],
+        "answer": "Server-side request forgery (SSRF) attack"
+    },
+    {
+        "id": 304,
+        "question": "Which file is a rich target to discover the structure of a website during web-server footprinting?",
+        "options": [
+            "Document root",
+            "Robots.txt",
+            "domain.txt",
+            "index.html"
+        ],
+        "answer": "Robots.txt"
+    },
+    {
+        "id": 305,
+        "question": "While testing a web application in development, you notice that the web server does not properly ignore the “dot dot slash” (../) character string and instead\nreturns the file listing of a folder structure of the server.\nWhat kind of attack is possible in this scenario?",
+        "options": [
+            "Cross-site scripting",
+            "Denial of service",
+            "SQL injection",
+            "Directory traversal"
+        ],
+        "answer": "Directory traversal"
+    },
+    {
+        "id": 306,
+        "question": "You are performing a penetration test for a client and have gained shell access to a Windows machine on the internal network. You intend to retrieve all DNS\nrecords for the internal domain, if the DNS server is at 192.168.10.2 and the domain name is abccorp.local, what command would you type at the nslookup prompt\nto attempt a zone transfer?",
+        "options": [
+            "list server=192.168.10.2 type=all",
+            "is-d abccorp.local",
+            "Iserver 192.168.10.2-t all",
+            "List domain=Abccorp.local type=zone"
+        ],
+        "answer": "is-d abccorp.local"
+    },
+    {
+        "id": 307,
+        "question": "Which command can be used to show the current TCP/IP connections?",
+        "options": [
+            "Netsh",
+            "Netstat",
+            "Net use connection",
+            "Net use"
+        ],
+        "answer": "Netsh"
+    },
+    {
+        "id": 308,
+        "question": "This wireless security protocol allows 192-bit minimum-strength security protocols and cryptographic tools to protect sensitive data, such as GCMP-2S6. MMAC-\nSHA384, and ECDSA using a 384-bit elliptic curve. Which is this wireless security protocol?",
+        "options": [
+            "WPA2 Personal",
+            "WPA3-Personal",
+            "WPA2-Enterprise",
+            "WPA3-Enterprise"
+        ],
+        "answer": "WPA3-Enterprise"
+    },
+    {
+        "id": 309,
+        "question": "Bob, your senior colleague, has sent you a mail regarding a deal with one of the clients. You are requested to accept the offer and you oblige. After 2 days. Bob\ndenies that he had ever sent a mail. What do you want to \"\"know\"\" to prove yourself that it was Bob who had send a mail?",
+        "options": [
+            "Authentication",
+            "Confidentiality",
+            "Integrity",
+            "Non-Repudiation"
+        ],
+        "answer": "Non-Repudiation"
+    },
+    {
+        "id": 310,
+        "question": "Log monitoring tools performing behavioral analysis have alerted several suspicious logins on a Linux server occurring during non-business hours. After further\nexamination of all login activities, it is noticed that none of the logins have occurred during typical work hours. A Linux administrator who is investigating this\nproblem realizes the system time on the Linux server is wrong by more than twelve hours. What protocol used on Linux servers to synchronize the time has\nstopped working?",
+        "options": [
+            "Time Keeper",
+            "NTP",
+            "PPP",
+            "OSPP"
+        ],
+        "answer": "NTP"
+    },
+    {
+        "id": 311,
+        "question": "Password cracking programs reverse the hashing process to recover passwords. (True/False.)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "id": 312,
+        "question": "What is the main security service a cryptographic hash provides?",
+        "options": [
+            "Integrity and ease of computation",
+            "Message authentication and collision resistance",
+            "Integrity and collision resistance",
+            "Integrity and computational in-feasibility"
+        ],
+        "answer": "Integrity and computational in-feasibility"
+    },
+    {
+        "id": 313,
+        "question": "Ralph, a professional hacker, targeted Jane, who had recently bought new systems for her company. After a few days, Ralph contacted Jane while masquerading\nas a legitimate customer support executive, informing that her systems need to be serviced for proper functioning and that customer support will send a computer\ntechnician. Jane promptly replied positively. Ralph entered Jane's company using this opportunity and gathered sensitive information by scanning terminals for\npasswords, searching for important documents in desks, and rummaging bins. What is the type of attack technique Ralph used on jane?",
+        "options": [
+            "Dumpster diving",
+            "Eavesdropping",
+            "Shoulder surfing",
+            "impersonation"
+        ],
+        "answer": "impersonation"
+    },
+    {
+        "id": 314,
+        "question": "Tremp is an IT Security Manager, and he is planning to deploy an IDS in his small company. He is looking for an IDS with the following characteristics: - Verifies\nsuccess or failure of an attack - Monitors system activities Detects attacks that a network-based IDS fails to detect - Near real-time detection and response - Does\nnot require additional hardware - Lower entry cost Which type of IDS is best suited for Tremp's requirements?",
+        "options": [
+            "Gateway-based IDS",
+            "Network-based IDS The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)C. Host-based IDS",
+            "Open source-based"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 315,
+        "question": "Techno Security Inc. recently hired John as a penetration tester. He was tasked with identifying open ports in the target network and determining whether the ports\nare online and any firewall rule sets are encountered. John decided to perform a TCP SYN ping scan on the target network. Which of the following Nmap\ncommands must John use to perform the TCP SYN ping scan?",
+        "options": [
+            "nmap -sn -pp < target ip address >",
+            "nmap -sn -PO < target IP address >",
+            "nmap -sn -PS < target IP address >",
+            "nmap -sn -PA < target IP address >"
+        ],
+        "answer": "nmap -sn -PS < target IP address >"
+    },
+    {
+        "id": 316,
+        "question": "What is GINA?",
+        "options": [
+            "Gateway Interface Network Application",
+            "GUI Installed Network Application CLASS",
+            "Global Internet National Authority (G-USA)",
+            "Graphical Identification and Authentication DLL"
+        ],
+        "answer": "Graphical Identification and Authentication DLL"
+    },
+    {
+        "id": 317,
+        "question": "You are analysing traffic on the network with Wireshark. You want to routinely run a cron job which will run the capture against a specific set of IPs -\n192.168.8.0/24. What command you would use?",
+        "options": [
+            "wireshark --fetch ''192.168.8*''",
+            "wireshark --capture --local masked 192.168.8.0 ---range 24",
+            "tshark -net 192.255.255.255 mask 192.168.8.0",
+            "sudo tshark -f''net 192 .68.8.0/24''"
+        ],
+        "answer": "sudo tshark -f''net 192 .68.8.0/24''"
+    },
+    {
+        "id": 318,
+        "question": "What is the common name for a vulnerability disclosure program opened by companies In platforms such as HackerOne?",
+        "options": [
+            "Vulnerability hunting program",
+            "Bug bounty program",
+            "White-hat hacking program",
+            "Ethical hacking program"
+        ],
+        "answer": "Bug bounty program"
+    },
+    {
+        "id": 319,
+        "question": "An LDAP directory can be used to store information similar to a SQL database. LDAP uses a database structure instead of SQL’s structure. Because of this,\nLDAP has difficulty representing many-to-one relationships.",
+        "options": [
+            "Relational, Hierarchical",
+            "Strict, Abstract",
+            "Hierarchical, Relational",
+            "Simple, Complex"
+        ],
+        "answer": "Hierarchical, Relational"
+    },
+    {
+        "id": 320,
+        "question": "David is a security professional working in an organization, and he is implementing a vulnerability management program in the organization to evaluate and control\nthe risks and vulnerabilities in its IT infrastructure. He is currently executing the process of applying fixes on vulnerable systems to reduce the impact and severity\nof vulnerabilities. Which phase of the vulnerability-management life cycle is David currently in?",
+        "options": [
+            "verification",
+            "Risk assessment",
+            "Vulnerability scan",
+            "Remediation"
+        ],
+        "answer": "Remediation"
+    },
+    {
+        "id": 321,
+        "question": "Vlady works in a fishing company where the majority of the employees have very little understanding of IT let alone IT Security. Several information security issues\nthat Vlady often found includes, employees sharing password, writing his/her password on a post it note and stick it to his/her desk, leaving the computer unlocked,\ndidn’t log out from emails or other social media accounts, and etc.\nAfter discussing with his boss, Vlady decided to make some changes to improve the security environment in his company. The first thing that Vlady wanted to do is\nto make the employees understand the importance of keeping confidential information, such as password, a secret and they should not share it with other persons.\nWhich of the following steps should be the first thing that Vlady should do to make the employees in his company understand to importance of keeping confidential\ninformation a secret?",
+        "options": [
+            "Warning to those who write password on a post it note and put it on his/her desk",
+            "Developing a strict information security policy",
+            "Information security awareness training",
+            "Conducting a one to one discussion with the other employees about the importance of information security"
+        ],
+        "answer": "Warning to those who write password on a post it note and put it on his/her desk"
+    },
+    {
+        "id": 322,
+        "question": "You have retrieved the raw hash values from a Windows 2000 Domain Controller. Using social engineering, you come to know that they are enforcing strong\npasswords. You understand that all users are required to use passwords that are at least 8 characters in length. All passwords must also use 3 of the 4 following\ncategories: lower case letters, capital letters, numbers and special characters. With your existing knowledge of users, likely user account names and the possibility\nthat they will choose the easiest passwords possible, what would be the fastest type of password cracking attack you can run against these hash values and still\nget results?",
+        "options": [
+            "Online Attack",
+            "Dictionary Attack",
+            "Brute Force Attack",
+            "Hybrid Attack The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)"
+        ],
+        "answer": "Hybrid Attack The Leader of IT Certification visit - https://www.certleader.com 100% Valid and Newest Version 312-50v12 Questions & Answers shared by Certleader https://www.certleader.com/312-50v12-dumps.html (503 Q&As)"
+    },
+    {
+        "id": 323,
+        "question": "While browsing his Facebook teed, Matt sees a picture one of his friends posted with the caption. \"Learn more about your friends!\", as well as a number of\npersonal questions. Matt is suspicious and texts his friend, who confirms that he did indeed post it. With assurance that the post is legitimate. Matt responds to the\nquestions on the post, a few days later. Mates bank account has been accessed, and the password has been changed. What most likely happened?",
+        "options": [
+            "Matt inadvertently provided the answers to his security questions when responding to the post.",
+            "Matt's bank-account login information was brute forced.",
+            "Matt Inadvertently provided his password when responding to the post.",
+            "Matt's computer was infected with a keylogger."
+        ],
+        "answer": "Matt inadvertently provided the answers to his security questions when responding to the post."
+    },
+    {
+        "id": 324,
+        "question": "Nedved is an IT Security Manager of a bank in his country. One day. he found out that there is a security breach to his company's email server based on analysis\nof a suspicious connection from the email server to an unknown IP Address.\nWhat is the first thing that Nedved needs to do before contacting the incident response team?",
+        "options": [
+            "Leave it as it Is and contact the incident response te3m right away",
+            "Block the connection to the suspicious IP Address from the firewall",
+            "Disconnect the email server from the network",
+            "Migrate the connection to the backup email server"
+        ],
+        "answer": "Disconnect the email server from the network"
+    },
+    {
+        "id": 325,
+        "question": "Rajesh wants to make the Internet a little safer and uses his skills to scan the networks of various organizations and find vulnerabilities even without the owners' permission. He informs the company owner about the problems encountered, but if the company ignores him and does not fix the vulnerabilities, Rajesh publishes them publicly and forces the company to respond. What type of hacker is best suited for Rajesh?",
+        "options": [
+            "Gray hat",
+            "Cybercriminal",
+            "White hat",
+            "Black hat"
+        ],
+        "answer": "Gray hat"
+    }
+]
